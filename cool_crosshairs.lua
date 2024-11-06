@@ -1,5 +1,7 @@
 ---@diagnostic disable: undefined-global
 
+--- BY QWQ-DEV (https://github.com/QwQ-dev) AND KNF7
+
 local ui_get, ui_set = ui.get, ui.set
 local entity_get_local_player = entity.get_local_player
 local entity_get_player_weapon = entity.get_player_weapon

@@ -35,9 +35,8 @@ This script was designed to enhance the gameplay experience by giving users more
 
 ### Disclaimer
 
-This lua was originally written for `knf7`.
+This lua was originally written for `KnF7`.
 I am not the original creator of the base crosshair system; I have simply extended it to make it more functional and customizable.
-
 
 ### Images
 
@@ -48,3 +47,8 @@ I am not the original creator of the base crosshair system; I have simply extend
 ![1](./images/3.png)
 
 ![1](./images/4.png)
+
+### Developers
+
+- [**QwQ-dev**](https://github.com/QwQ-dev)
+- [**KnF7**](https://github.com/KnF7xxx)
